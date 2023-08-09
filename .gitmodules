@@ -1,0 +1,6 @@
+[submodule "mars-terrain-visualizer-godot"]
+	path = mars-terrain-visualizer-godot
+	url = git@github.com:ghxst0000/mars-terrain-visualizer-godot.git
+[submodule "mars-exploration-1-java-ghxst0000"]
+	path = mars-exploration-1-java-ghxst0000
+	url = git@github.com:CodecoolGlobal/mars-exploration-1-java-ghxst0000.git
