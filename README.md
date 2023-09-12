@@ -93,6 +93,3 @@ This Repository Includes:
 - [ ] 3D Terrain Visualizer in Java
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
